@@ -1,0 +1,3 @@
+# Ghostory
+
+Once upon a time, blablabla...
